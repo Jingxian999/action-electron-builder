@@ -18,6 +18,10 @@
 		"format:fix": "yarn format --write"
 	},
 	"dependencies": {},
+	"build": {
+        "publish": "always"
+    
+    },
 	"peerDependencies": {},
 	"devDependencies": {
 		"@samuelmeuli/eslint-config": "^6.0.0",
